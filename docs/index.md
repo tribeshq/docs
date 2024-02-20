@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Tribes"
-  text: "The Tribes documentation"
+  text: "Welcome to Tribes"
   tagline: My great project tagline
   actions:
     - theme: brand
